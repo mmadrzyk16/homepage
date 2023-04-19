@@ -15,6 +15,9 @@ navbar:
   - text: Research
     href: research.html
     icon: fa-flask
+  - text: Map
+    href: index2.html
+    icon: fa-flask
   right:
   - icon: fa-twitter
     href: https://twitter.com/another_ant_guy
