@@ -23,33 +23,27 @@ body {text-align: left}
 
 ___
 
-## 1. Variation in hooman food
+## 1. Individual differences in foraging behavior of Argentine ants (_Linepithema humile_)
 
-Hoomans love their food, and I love to qualitatively assess the variation across hooman food. 
-
->_I love protein-rich food. Sometimes, pasta is okay._
-
-### Story time 
-
-I remember that one time, when my two favorite hoomans and I were driving from Florida to Arizona. On a sunny day in the middle of nowhere in Florida was nestled this beautiful, rustic town. This was the moment when I first met Arby's. What a beautiful day it was!
-
-```{r, echo=FALSE, fig.cap="Me and Arbys.", out.width = '50%', fig.align='center'}
-knitr::include_graphics("me_doing_stuff.jpg")
-```
-   
-___
-
-## 2. Temporal patterns of food availability
-
-> **Do hooman food availability show circadian rhythms?**
-
-I have been studying the above question for a long time now. However, obtaining funds to publish in current times is hard.
+Argentine ant foragers vary in their propensity to explore novel environments. We found that individuals who wander off of established forging trails to find novel food resources are more exploratory. If you are interested in learning more see Madrzyk and Pinter-Wollman, 2022.
 
 ___
 
-## 3. Future directions
+## 2. Ant community dynamics in disturbed and natural habitats
 
-* Food availability in urban vs. natural habitats
-* Daily association between amount of food available and duration of walk
+Data collected in 2012 around Stanford campus and Jasper Ridge Biological Preserve shows differences in species ability to occupy and persist at food food baits over time. Notably, we find that in areas that have been subjected to intermediate levels of human disturbance, only Winter and Argentine ants are present. In addition, these two species show a similar ability to occupy and persist at food sources over time. 
 
 ___
+
+## 3. Native and invasive species interactions
+
+> **How do native Winter ants (_Prenolepis imparis_) coexisit with invasive Argentine Ants (_Linepithema humile_)**
+
+Using oak trees around Stanford campus, me and a team in Stanford undergraduates have been monitoring foraging behavior of Winter and Argentine ants over the course of the year to see how they respond to one another.
+
+___
+
+## Other Work
+
+ * Worked on Dr. Deborah Gordon's long-term field study on how harvester ants (_Pogonomyrmex barbatus_) respond to climate change.
+ * Working with Dr. Katie Fiocca to determine how isolation in harvester ants (_Pogonomyrmex barbatus_) changes their cuticular hydrocarbons.
