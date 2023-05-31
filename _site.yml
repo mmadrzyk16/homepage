@@ -18,6 +18,9 @@ navbar:
   - text: Photos
     href: photos.html
     icon: fa-camera
+  - text: Map
+    href: index2.html
+    icon: fa-map
   right:
   - icon: fa-twitter
     href: https://twitter.com/MadrzykMax
