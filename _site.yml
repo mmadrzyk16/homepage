@@ -19,7 +19,7 @@ navbar:
     href: photos.html
     icon: fa-camera
   - text: Map
-    href: index2.html
+    href: index3.html
     icon: fa-map
   right:
   - icon: fa-twitter
